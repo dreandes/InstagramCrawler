@@ -1,0 +1,5 @@
+selenium
+re
+tqdm
+chromedriver-py==83.0.4103.39
+pandas
